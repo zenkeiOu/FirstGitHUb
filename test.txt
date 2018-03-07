@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 aaaaaaaaaaaThis is the first txt
-=======
 This is the first txt
 confilect
->>>>>>> b39bcee438c82b9bdbe7c5163fb8d5b95eb750b4
