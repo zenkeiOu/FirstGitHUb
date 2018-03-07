@@ -7,3 +7,5 @@ rebase test
 
 This is the first txt
 confilect
+
+add rebase test
