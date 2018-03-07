@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+tttttttttttttttt<<<<<<< HEAD
 aaaaaaaaaaaThis is the first txt
 =======
 This is the first txt
